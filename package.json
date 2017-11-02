@@ -1,0 +1,28 @@
+{
+  "name": "mean_3",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamShft/mean-stack-app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Samuel Côté",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamShft/mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/CamShft/mean-stack-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
